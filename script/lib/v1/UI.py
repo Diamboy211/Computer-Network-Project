@@ -7,7 +7,7 @@
 '''
 
 import datetime
-    
+
 SERVER_COLOR = '\033[94m' # Blue
 CLIENT_COLOR = '\033[92m' # Green
 SYSTEM_COLOR = '\033[90m' # Gray
